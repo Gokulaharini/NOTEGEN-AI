@@ -1,0 +1,7 @@
+{
+  "name": "NoteGen AI - Smart Notes & Exam Strategy",
+  "description": "Turn your study material into your personal exam strategy with AI-powered smart notes, priority breakdown, interactive flashcards, and adaptive exam practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
